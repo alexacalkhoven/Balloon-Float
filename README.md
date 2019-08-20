@@ -1,4 +1,4 @@
-# balloon-float
+# Balloon-Float
 Arcade style game made with processing
 
 Hello!
